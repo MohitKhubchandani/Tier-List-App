@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: white ;
+  margin-top: 40px;
+}
+
+#dropzone {
+  background-color: rgb(0, 0, 0);
+  width: 50%;
+  margin-left: 25%;
+}
+
+.container {
+  display: flex;
+  background-color: rgb(0, 0, 0);
+  margin: 2px 0;
+  padding: 3px;
+  align-items: center;
+
+}
+
+
+.listItems {
+  width: 100px;
+  height: 80px;
+  background-color: brown;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.droppingzone {
+  border: 1px solid black;
+}
+
+
+/* Dropping items */
+
+.dropping-items{
+  height: 100px;
+  width: 80%;
+  margin-left:9.5%;
+  background-color: black;
+  margin-top: 10px;
+}
+
+.container1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(0, 0, 0);
+  margin: 2px 0;
+  margin-top: 50px;
+  flex-wrap: wrap;
+}
+
+.draggable{
+  height: 70px;
+  width: 70px;
+  background-color: white;
+  margin: 5px;
+}
+
+.draggable > img {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
