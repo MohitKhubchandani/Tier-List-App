@@ -33,5 +33,3 @@ Open index.html in your web browser to use the application.
 Contributing
 Contributions are welcome! Please read the contributing guidelines for more details.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
