@@ -15,7 +15,10 @@ This is a web-based application that allows users to create and customize tier l
 - **CSS**: For styling the application
 - **JavaScript (DOM)**: For interactive elements and dynamic content manipulation
 
+## Prototype
+![image](https://github.com/user-attachments/assets/fb54e16b-af73-4b38-a09f-3a3d976150a0)
 
+## Project
 ![TierListGif](https://github.com/user-attachments/assets/0cc19f29-2759-4143-b1e6-e061b133bc6f)
 
 ## Installation
