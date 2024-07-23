@@ -23,9 +23,9 @@ This is a web-based application that allows users to create and customize tier l
 
 ## Installation
 1. Clone the repository:
-   ```
-[   git clone https://github.com/your-username/tier-list-app.git](https://github.com/MohitKhubchandani/Tier-List-App.git)
-
+```
+https://github.com/MohitKhubchandani/Tier-List-App.git
+```
 2. Navigate to the project directory
 ```
 cd tier-list-app
